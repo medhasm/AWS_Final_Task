@@ -3,7 +3,7 @@ module "WebServers" {
     AmiName= "ami-0caef02b518350c8b"
     InstenceType= "t2.micro"
     Zone = "eu-central-1"
-    key = "mariam"
+    key = "medhat"
 
 }
 
