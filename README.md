@@ -9,7 +9,7 @@
 Assume VPC and subnets already exist "use the default!".
 
 
-**First of all, To run the project locally you have to change the varibales value in the CreateAll.tf file, so it can fit your working Space.**
+**To run the project locally you have to change the varibales value in the CreateAll.tf file, so it can fit your working Space.**
 
 
 **Init terraform enivroment:**
@@ -39,6 +39,6 @@ terraform destroy
 
 ```
 
-
+**The Architict of the system**
 ![archtict](https://user-images.githubusercontent.com/57920502/208950309-272a46f0-ab40-46e1-bd90-acd25d8e1c91.PNG)
 
